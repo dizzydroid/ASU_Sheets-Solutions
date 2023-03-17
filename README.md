@@ -2,7 +2,7 @@
 ## > **FOE-ASU [CSE131s] Problem Sheets + Solutions**
 
 <div id="header" align="left">
-  <img src="https://raw.githubusercontent.com/dizzydroid/ASU_Sheets-Solutions/main/cse131s_Sheets_Header.png?token=GHSAT0AAAAAAB74HOUBTHTGESN5KJSAJKXAZAUHF4Q" width="350"/>
+ <img src="https://github.com/dizzydroid/ASU_Sheets-Solutions/blob/main/cse131s_Sheets_Header.png?raw=true">
 </div>
 
 ## What's included in this repo❓🤔
