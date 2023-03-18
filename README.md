@@ -6,9 +6,8 @@
 </div>
 
 ## What's included in this repo❓🤔
-### 📂 Tasks + Solution Source code files to the assigned lab tasks on CodeForces Group: <br>
-#### **CSE 131s - Computer Programming - Faculty of Engineering - Ain Shams University - 2022/2023** <br>
->  **A total of 4 labs (incl. Entry Ungraded Lab)** 
+- 📁 CSE131s Sheets + Solutions in PDF format
+- 📄 Source Code for Programming Exercises
 
 ### ❗❗ The repo is for reference purposes only, do not use or distribute as a way of cheating etc,.. ❗❗ 
 #### My solutions are not always optimal, far from it actually! Always trust your guts and try it yourself first 😎
