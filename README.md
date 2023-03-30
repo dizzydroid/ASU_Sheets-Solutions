@@ -9,9 +9,8 @@
 - 📁 CSE131s Sheets + Solutions in PDF format
 - 📄 Source Code for Programming Exercises
 
-### ❗❗ The repo is for reference purposes only, do not use or distribute as a way of cheating etc,.. ❗❗ 
-#### My solutions are not always optimal, far from it actually! Always trust your guts and try it yourself first 😎
-##### Feel free to share your solutions as well, fork,..etc 😁
+### My solutions are not always optimal, far from it actually! Always trust your guts and try it yourself first 😎
+#### Feel free to share your solutions as well, fork,..etc 😁
   
 <br>
 <h1 align="center">Thanks for visiting 😊</h1>
