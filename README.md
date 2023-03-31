@@ -6,7 +6,7 @@
 </div>
 
 ## What's included in this repo❓🤔
-- 📁 CSE131s Sheets + Solutions in PDF format
+- 📁 CSE131s Practice Sheets + My solutions in PDF format
 - 📄 Source Code for Programming Exercises
 
 ### My solutions are not always optimal, far from it actually! Always trust your guts and try it yourself first 😎
