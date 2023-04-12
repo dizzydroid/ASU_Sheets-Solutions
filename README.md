@@ -9,8 +9,9 @@
 - 📁 CSE131s Practice Sheets + My solutions in PDF format
 - 📄 Source Code for Programming Exercises
 
-### My solutions are not always optimal, far from it actually! Always trust your guts and try it yourself first 😎
-#### Feel free to share your solutions as well, fork,..etc 😁
+___________________________________________________________________
+### My solutions are not always optimal, far from it actually! Always trust your guts and try it yourself first 💪
+#### Feel free to [share](https://github.com/dizzydroid/ASU_Sheets-Solutions/discussions/) your solutions as well, fork &c. 😁
 ___________________________________________________________________
 ### **Questions?** Head over to the [discussions](https://github.com/dizzydroid/ASU_Sheets-Solutions/discussions/) tab and fire away!
 ___________________________________________________________________
