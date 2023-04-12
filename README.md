@@ -14,6 +14,5 @@
 ___________________________________________________________________
 ### **Questions?** Head over to the [discussions](https://github.com/dizzydroid/ASU_Sheets-Solutions/discussions/) tab and fire away!
 ___________________________________________________________________
-  
-<br>
+
 <h1 align="center">Thanks for visiting 😊</h1>
