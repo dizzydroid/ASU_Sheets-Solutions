@@ -10,7 +10,7 @@
 - 📄 Source Code for Programming Exercises
 
 ___________________________________________________________________
-### My solutions are not always optimal, far from it actually! Always trust your guts and try it yourself first 💪
+### My solutions are not always optimal, far from it actually! Always trust your gut and try it yourself first 💪
 #### Feel free to [share](https://github.com/dizzydroid/ASU_Sheets-Solutions/discussions/) your solutions as well, fork &c. 😁
 ___________________________________________________________________
 ### **Questions?** Head over to the [discussions](https://github.com/dizzydroid/ASU_Sheets-Solutions/discussions/) tab and fire away!
