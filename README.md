@@ -1,12 +1,12 @@
 # ASU_Sheets-Solutions
-## > **FOE-ASU [CSE131s] Problem Sheets + Solutions**
+## > **FOE-ASU [CSE131s] / [CSE231s] Problem Sheets + Solutions**
 
 <div id="header" align="left">
  <img src="sheets_header_GIF.gif">
 </div>
 
 ## What's included in this repo❓🤔
-- 📁 CSE131s Practice Sheets + My solutions in PDF format
+- 📁 CSE131s/CSE231s Practice Sheets + My solutions in PDF format
 - 📄 Source Code for Programming Exercises
 
 ___________________________________________________________________
