@@ -24,7 +24,7 @@ public class AreaAndPerim{
 
     }
 
-    // main method:
+    /** Main method */
     public static void main(String[] args){
         AreaAndPerim testCases = new AreaAndPerim();
         testCases.rectangle(4.0f,5.5f);

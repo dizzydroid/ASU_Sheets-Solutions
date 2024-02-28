@@ -8,7 +8,7 @@ public class ArrayMagnitude extends Vector{
         return sum / vectors.length;
 }
 
-    // main method
+    /** Main method */
     public static void main(String[] args){
         // test cases
         Vector[] vectors = new Vector[3];

@@ -3,12 +3,12 @@ public class Vector {
     double x;
     double y;
     
-    // Default constructor
+    /** Default constructor */
     public Vector(){
         x = 0;
         y = 0;
     }
-    // Parametrized constructor
+    /** Parametrized constructor */
     public Vector(double x, double y){
         this.x = x;
         this.y = y;
@@ -53,7 +53,7 @@ public class Vector {
         return new Vector(newX,newY);
     }
 
-    // main method
+    /** Main method */
     public static void main(String[] args){
         // test cases
         Vector myVector = new Vector(4,5); // vector declaration
